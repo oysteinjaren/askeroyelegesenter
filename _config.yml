@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/asker-oyelegesenter'
 exclude: ['README.md']
 permalink: pretty
 title: 'Asker og Bærum Øyelegesenter'
