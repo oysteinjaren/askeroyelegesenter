@@ -5,7 +5,7 @@ title: 'Asker og Bærum Øyelegesenter'
 
 google_analytics_id: null
 homepage:
-  show_call_box: false
+  show_call_box: true
 logo:
   mobile: "images/logo/logo.jpg"
   desktop: "images/logo/logo.jpg"
