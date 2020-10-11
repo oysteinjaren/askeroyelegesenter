@@ -5,17 +5,14 @@ main:
   - name: "Hva gjør vi"
     url: "/hvagjorvi/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Kontakt"
+    url: "/kontakt/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Hjem"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Kontakt"
+    url: "/kontakt/"
     weight: 2
