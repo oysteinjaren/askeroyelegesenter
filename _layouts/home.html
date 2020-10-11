@@ -25,23 +25,18 @@ bodyClass: page-home
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.services %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">View All Services</a>
-      </div>
+      <p>
+        Senteret har driftsavtale med Helse Sør-Øst, og pasientene betaler kun vanlige egenandeler. (Gratis for barn under 16 år og pasienter med frikort).
+      </p>
+      <p>
+        Alle nye pasienter må ha henvisning fra lege, optiker eller fra helsestasjon.
+      </p>
+      <p>
+        Pasienter som ikke har vært her på 2 år bør/må ha ny henvisning. 
+      </p>
+      <p>
+        Vi har svært stor pågang av pasienter, og må derfor prioritere hvilke pasienter som haster. Det er derfor svært viktig at henvisningene er nøyaktige.
+      </p>
     </div>
   </div>
 </div>
