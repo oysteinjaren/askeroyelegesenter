@@ -2,8 +2,8 @@ main:
   - name: "Hvem er vi"
     url: "/hvemervi/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Hva gjør vi"
+    url: "/hvagjorvi/"
     weight: 3
   - name: "About"
     url: "/about/"
