@@ -4,7 +4,7 @@ date: 2020-10-12T00:00:00+01:00
 layout: 'page'
 ---
 
-{% include captioned-image.html url="/images/illustrations/perklyve.jpg" description="Øyelege Per Klyve" %}
+{% include captioned-image.html url="images/illustrations/perklyve.jpg" description="Øyelege Per Klyve" %}
 
 Øyelege Klyve har bakgrunn som spesialist i allmenn-medisin. Utdannelse som øyelege fra Øyeavdelingen ved Trondheim Universitetssykehus, og Øyeavdelingen ved Ullevål Universitetssykehus, hvor han også var Universitetslektor.
 
@@ -14,4 +14,4 @@ Han har fra 1995 vært ansvarlig for norske retningslinjer for utredning og beha
 
 Vi har meget godt og moderne utstyr til diagnostisering, utredning, behandling og oppfølging av øyesykdommer.
 
-{% include captioned-image.html url="/images/illustrations/helsesekretærer.jpg" description="Helsesekretær Tone Wessel, Helsesekretær Kirsti Njåtun" %}
+{% include captioned-image.html url="images/illustrations/helsesekretærer.jpg" description="Helsesekretær Tone Wessel, Helsesekretær Kirsti Njåtun" %}
