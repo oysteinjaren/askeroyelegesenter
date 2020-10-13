@@ -1,7 +1,7 @@
-baseurl: '/asker-oyelegesenter'
-exclude: ['README.md']
+baseurl: ""
+exclude: ["README.md"]
 permalink: pretty
-title: 'Asker og Bærum Øyelegesenter'
+title: "Asker og Bærum Øyelegesenter"
 
 google_analytics_id: null
 homepage:
@@ -35,7 +35,7 @@ defaults:
       layout: service
       bodyClass: page-services-single
   - scope:
-      path: 'images'
+      path: "images"
     values:
       image: true
 
