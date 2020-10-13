@@ -1,7 +1,7 @@
 ---
-title: 'Hvem er vi'
+title: "Hvem er vi"
 date: 2020-10-12T00:00:00+01:00
-layout: 'page'
+layout: "page"
 ---
 
 {% include captioned-image.html url="../images/illustrations/perklyve.jpg" description="Øyelege Per Klyve" %}
@@ -10,7 +10,7 @@ layout: 'page'
 
 Han har mer enn 20 års erfaring som øyelege i praksis i Asker.
 
-Han har fra 1995 vært ansvarlig for norske retningslinjer for utredning og behandling av tørre øyne, og er medforfatter for Nordiske retningslinjer for tørre øyne utredning og behandling.  Han har også spesiell interesse for glaucom ("grønn stær") utredning og behandling.
+Han har fra 1995 vært ansvarlig for norske retningslinjer for utredning og behandling av tørre øyne, og er medforfatter for Nordiske retningslinjer for tørre øyne utredning og behandling. Han har også spesiell interesse for glaucom ("grønn stær") utredning og behandling.
 
 Vi har meget godt og moderne utstyr til diagnostisering, utredning, behandling og oppfølging av øyesykdommer.
 
