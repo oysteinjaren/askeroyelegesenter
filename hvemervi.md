@@ -4,23 +4,45 @@ date: 2020-10-12T00:00:00+01:00
 layout: "page"
 ---
 
-{% include image.html url="../images/illustrations/perklyve.jpg" description="Øyelege Per Klyve" %}
+{% include captioned-image.html url="../images/illustrations/resepsjonen.jpg" description="Resepsjonen: Linda Olsholt og Kirsti Njåtun" %}
 
 ## Øyelege Per Klyve
 
-Øyelege Klyve har bakgrunn som spesialist i allmenn-medisin. Utdannelse som øyelege fra Øyeavdelingen ved Trondheim Universitetssykehus, og Øyeavdelingen ved Ullevål Universitetssykehus, hvor han også var Universitetslektor.
+{% include image.html url="../images/illustrations/perklyve.jpg" description="Øyelege Per Klyve" %}
+
+Øyelege Klyve har bakgrunn som spesialist i allmenn-medisin. Utdannelse som øyelege fra Øyeavdelingen
+ved Trondheim Universitetssykehus, og Øyeavdelingen ved Ullevål Universitetssykehus, hvor han også
+var forsker og universitetslektor.
 
 Han har mer enn 20 års erfaring som øyelege i praksis i Asker.
 
-Han har fra 1995 vært ansvarlig for norske retningslinjer for utredning og behandling av tørre øyne, og er medforfatter for Nordiske retningslinjer for tørre øyne utredning og behandling. Han har også spesiell interesse for glaucom ("grønn stær") utredning og behandling.
+Han har fra 1995 vært, og er fortsatt, ansvarlig for norske retningslinjer for utredning og behandling
+av tørre øyne, og er medforfatter for Nordiske retningslinjer for tørre øyne utredning og behandling.
+Han har også spesiell interesse for glaucom ("grønn stær").
 
-Vi har meget godt og moderne utstyr til diagnostisering, utredning, behandling og oppfølging av øyesykdommer.
+## Øyelege Nina Veiby
 
-## Øyelege Frode Sandboe
+{% include image.html url="../images/illustrations/ninaveiby.jpg" description="Øyelege Nina Veiby" %}
 
-Øyelege Frode Sandboe ble etter sin ordinære lege-utdannelse spesialist i øyesykdommer ved Rikshospitalets øyeavdeling i 1995. Der var han bl.a. universitetslektor og øyekirurg frem til 2002. Etter det har han frem til 2021 arbeidet som øyelege i praksis i Horten, Drammen og på Nesbru.
+Øyelege Nina Veiby tok sin legeutdanning ved Københavns Universitet. Spesialiseringen ble gjort ved øyeavdelingen,
+Ullevål, OUS, hvor hun har jobbet fra 2004-2021. Hun ble spesialist i øyesykdommer i 2013.
 
-Øyelege Nina Charlotte Weiby vil vikariere i Sandboes praksis ved Asker og Bærum Øyelegesenter ut 2021. Hun tok sin legeutdanning ved Københavns Universitet. Spesialiseringen ble gjort ved øyeavdelingen, Ullevål, OUS, hvor hun har jobbet fra 2004-2021. Øyespesialist i 2013. Nina har en bred erfaring innen alle øyesykdommer. Hun har vært universitetslektor og har jobbet som overlege på barn- og okuloplast-seksjonene. Hun har Ph.d. som omhandler netthinnens blodkar, morfologi og arvelighet og en Post Doc om diabetes retinopati.
-Interesser: Barn, diabetes, grønn stær og tørre øyne
+Nina har bred erfaring innen alle øyesykdommer. Hun har vært universitetslektor og har jobbet som
+overlege på barn- og okuloplastikk-seksjonene. Hun har Ph.d. som omhandler
+netthinnens blodkar, morfologi og arvelighet og en Post Doc om diabetes retinopati.
 
-{% include captioned-image.html url="../images/illustrations/helsesekretærer.jpg" description="Helsesekretær Tone Wessel, Helsesekretær Kirsti Njåtun" %}
+Interesser: Barn, diabetes, grønn stær og tørre øyne.
+
+## Øyelege Grunde Dalsøren
+
+{% include image.html url="../images/illustrations/grundedalsoren.jpg" description="Øyelege Grunde Dalsøren" %}
+
+Grunde Dalsøren studerte medisin ved Universitetet i Oslo. Spesialistutdannelsen
+har han fra øyeavdelingene i Oslo og Drammen. Han har bred overlegeerfaring innen
+øyefaget fra sykehus, både medisinsk og kirurgisk. I tillegg til fast sykehusstilling har
+han vikariert deltid i avtalepraksis over mange år.
+
+Han er en erfaren kirurg, og arbeider fortsatt deltid på sykehuset i Drammen med grå
+stær-operasjoner, og med mer komplekse operasjoner i fremre del av øyet. De neste
+årene vil Dalsøren og Klyve samarbeide om en stilling ved Asker og Bærum
+Øyelegesenter.
