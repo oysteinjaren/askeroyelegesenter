@@ -6,9 +6,8 @@ bodyClass: page-contact
 
 Adresse: HELSEBYGGET, TREKANTEN KJØPESENTER. ØVERSTE (4.PLAN).
 
-Parkering i Trekanten parkeringshus vegg i vegg med Helsebygget. (gratis i 2 timer i
-senterets åpningstid. Kjør rett inn, ingen registrering vanligvis nødvendig), eller på
-taket bak Helsebygget (parkometer).
+Parkering i Trekanten parkeringshus vegg i vegg med Helsebygget (gratis i 2 timer i
+senterets åpningstid). Man kan også parkere på taket bak Helsebygget (parkometer).
 
 Pasienter kan kjøres til inngangsdøren i 4.plan (innkjøring fra Knud Askersv,
 nedenfor/vis a vis Rådhuset), ingen trapper. Det er også adkomst gjennom Trekanten
